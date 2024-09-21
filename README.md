@@ -51,6 +51,14 @@ The Credit Card Customer Churn Analysis Dashboard is a powerful tool designed to
 
   4. Increase customer satisfaction and brand loyalty.
         * Understand why customers with specific credit types or in certain regions are leaving and address those issues with improved customer service or product offerings.
+
+# Tools
+* Microsoft Power BI
+
+# Data Model View
+
+![Data Model View](https://github.com/user-attachments/assets/8d879cb6-0071-4e38-a5a1-4b77282c60fd)
+
 # Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/0b4a6169-c3da-49d8-90fa-c089c41a219d)
